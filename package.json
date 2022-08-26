@@ -1,6 +1,6 @@
 {
   "name": "@flowchase/react-native-markdown-display",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Markdown renderer for react-native, with CommonMark spec support + adds syntax extensions & sugar (URL autolinking, typographer), originally created by Mient-jan Stelling as react-native-markdown-renderer",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -35,8 +35,8 @@
     "react-native-fit-image": "^1.5.5"
   },
   "peerDependencies": {
-    "react": "^17.0.1",
-    "react-native": "^0.64.3"
+    "react": ">=17 <=18",
+    "react-native": ">=0.64 <=0.69"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.1",
