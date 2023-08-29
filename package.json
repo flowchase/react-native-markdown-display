@@ -36,7 +36,7 @@
   },
   "peerDependencies": {
     "react": ">=17 <=18",
-    "react-native": ">=0.64 <=0.71"
+    "react-native": ">=0.64 <=0.72"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.1",
